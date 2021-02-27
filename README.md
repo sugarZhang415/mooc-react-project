@@ -1,2 +1,2 @@
-# mooc-react-project
-仿照慕课网react项目react+TS高仿ANTD库
+# react-project-all
+用来放所有react的项目。
